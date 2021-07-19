@@ -1,0 +1,10 @@
+
+*{
+	box-sizing: border-box;
+}
+body
+{
+	background-image: url(./photos/black.jpg);
+	background-repeat: no-repeat;
+	color: wheat;
+}
